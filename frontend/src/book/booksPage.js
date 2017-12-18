@@ -1,5 +1,5 @@
 import React from 'react';
-import MoviesList from '/MoviesList';
+import BooksList from '/BooksList';
 import { connect } from 'react-redux';
 
 class BooksPage extends React.Component {
